@@ -7,7 +7,8 @@
 
 -In the chat page, you can click on "New bot" to add a new bot, write bot name and description, and select an image.
 
-![Preview 1](https://raw.githubusercontent.com/reemrizzk/ai-friends-nextjs/main/public/preview1.png)
+![Example Image](https://raw.githubusercontent.com/reemrizzk/Ai-friends-NextJs-/main/public/preview1.png)
+
 
 ### How to run project
 
