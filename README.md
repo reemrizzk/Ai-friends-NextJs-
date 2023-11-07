@@ -13,6 +13,7 @@
 ### How to run project
 
 -Clone this repository
+
 -In the project directory, you can run:
 `npm install` to install the required dependencies,
 and then `npm run dev` to start the development server.
