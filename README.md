@@ -1,2 +1,1 @@
-# Ai-friends-NextJs-
-A NextJs/React web application to chat with different AI chatbots, powered by ChatGPT
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
